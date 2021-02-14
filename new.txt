@@ -1,4 +1,4 @@
 test 
 text
-we add it to get conflict
-we add it to get conflict
+some changes from branch2
+some changes from branch2
